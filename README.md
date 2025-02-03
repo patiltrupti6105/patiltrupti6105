@@ -18,7 +18,8 @@
   <li>✨ <a href="https://www.geeksforgeeks.org/user/patiltrupti6105/">GeeksForGeeks</a></li>
   </ol>
   <li>Currently working on- DSA, open source !</li>
-  <li>Currently learning - cloud computing, full stack web dev !</li>
+  <li>Currently learning - full stack web dev !</li>
+  <li>Currently exploring - AI ML</li>
 </p>
 
 ---
