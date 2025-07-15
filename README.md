@@ -3,7 +3,7 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://www.linkedin.com/in/trupti-patil-26935626b/">LinkedIn</a> - 
-  <a href="https://x.com/patiltrupti6105">Twitter</a> -
+  <a href="https://trupti-patil-7y3kbdn.gamma.site/">Portfolio</a> -
   <a href="patiltrupti6105@gmail.com">Contact me</a> 
 </p>
 
